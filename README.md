@@ -14,6 +14,9 @@ Proyecto práctico del curso "Java COMPLETO 2020 Programação Orientada a Objet
 - Creación de un CRUD - Create, Retrieve, Update, Delete
 - Tratamiento de excepciones 
 
+# Modelo conceptual
+![Modelo Conceptual](https://github.com/pablosky89/course-springboot-jpa/tree/master/assets/dominio.png)
+
 # Tecnologias utilizadas
 ## Back end
 - Java
